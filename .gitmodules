@@ -1,0 +1,3 @@
+[submodule "gr-iridium"]
+	path = iridium/gr-iridium
+	url = https://github.com/muccc/gr-iridium
